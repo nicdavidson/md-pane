@@ -1,0 +1,13 @@
+{
+  "name": "md-pane",
+  "owner": {
+    "name": "nicdavidson"
+  },
+  "description": "md-pane: read the markdown files Claude writes in a side pane, without leaving Claude Code",
+  "plugins": [
+    {
+      "name": "md-pane",
+      "source": "./"
+    }
+  ]
+}

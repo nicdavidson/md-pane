@@ -1,0 +1,11 @@
+{
+  "name": "md-pane",
+  "version": "0.2.0",
+  "description": "Side pane that renders the .md files Claude writes, live, with recent files, contents, diffs and remote files over ssh",
+  "author": {
+    "name": "nicdavidson",
+    "url": "https://github.com/nicdavidson"
+  },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
